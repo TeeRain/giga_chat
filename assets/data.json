@@ -1,0 +1,94 @@
+[
+    {
+        "participants": [
+            {
+                "name": "Michael",
+                "avatar": "https://thumbs.dreamstime.com/z/businessman-icon-image-male-avatar-profile-vector-glasses-beard-hairstyle-179728610.jpg"
+            }
+        ],
+        "lastMessage": {
+            "message": "Hello!",
+            "sender": "Michael"
+        },
+        "date": "2023-05-07T10:05:59.5646+02:00",
+        "chip": {
+            "label": "Challenge",
+            "backColor": "ff000000",
+            "textColor": "ffffffff"
+        }
+    },
+    {
+        "participants": [
+            {
+                "name": "John",
+                "avatar": "https://png.pngtree.com/png-vector/20191101/ourmid/pngtree-cartoon-color-simple-male-avatar-png-image_1934459.jpg"
+            }
+        ],
+        "lastMessage": {
+            "message": "Bye!",
+            "sender": "You"
+        },
+        "date": "2023-05-09T10:05:59.5646+02:00"
+    },
+    {
+        "participants": [
+            {
+                "name": "Alex",
+                "avatar": "https://avatarfiles.alphacoders.com/203/203864.jpg"
+            },
+            {
+                "name": "John",
+                "avatar": "https://i.pinimg.com/280x280_RS/83/de/c4/83dec429f83b4fe382e62e32b76aba09.jpg"
+            },
+            {
+                "name": "Josh",
+                "avatar": "https://avatarfiles.alphacoders.com/203/203864.jpg"
+            },{
+                "name": "Andrew",
+                "avatar": "https://avatarfiles.alphacoders.com/203/203864.jpg"
+            }
+        ],
+        "lastMessage": {
+            "message": "When Britain first, at Heaven's command Arose from out the azure main This was the charter of the land, And guardian angels sang this strain: Rule, Britannia! rule the waves: Britons never will be slaves.!",
+            "sender": "You"
+        },
+        "date": "2023-05-09T10:05:59.5646+02:00",
+        "chip": {
+            "label": "Help Req.",
+            "backColor": "ffFFEA00",
+            "textColor": "ff000000"
+        }
+    },
+    {
+        "participants": [
+            {
+                "name": "Julie McAndrew",
+                "avatar": "https://i.pinimg.com/236x/cf/c1/af/cfc1af3b5ab61b8da0065d0dace258cf.jpg"
+            }
+            
+        ],
+        "lastMessage": {
+            "message": "Thanks Julie",
+            "sender": "You"
+        },
+        "date": "2023-05-09T10:05:59.5646+02:00",
+        "chip": {
+            "label": "Engagement Partner",
+            "backColor": "ff7B7B7B",
+            "textColor": "ffffffff"
+        }
+    },
+      {  "participants": [
+            {
+                "name": "Grzegorz Brzęczyszczykiewicz",
+                "avatar": "https://avatars.cloudflare.steamstatic.com/3f8169f3268ec0601dc642ab94eb8cbed57ab66e_full.jpg"
+            }
+            
+        ],
+        "lastMessage": {
+            "message": "Bye!",
+            "sender": "You"
+        },
+        "date": "2023-05-09T10:05:59.5646+02:00"
+    }
+]
