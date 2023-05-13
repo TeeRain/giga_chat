@@ -1,0 +1,1 @@
+const String avatar = 'https://i.pinimg.com/280x280_RS/83/de/c4/83dec429f83b4fe382e62e32b76aba09.jpg';

@@ -1,16 +1,7 @@
 # giga_chat
 
-A new Flutter project.
+Я витратив на виконання цього тестового завдання майже 8 годин,
+theolehhudyma@gmail.com
+Моє улюблене хобі це Counter-Strike
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text](https://drive.google.com/file/d/1C_cFYp9JSlatJA0o_yYDGCZYAxCKS187/view?usp=sharing)
