@@ -4,4 +4,4 @@
 theolehhudyma@gmail.com
 Моє улюблене хобі це Counter-Strike
 
-![alt text](https://drive.google.com/file/d/1C_cFYp9JSlatJA0o_yYDGCZYAxCKS187/view?usp=sharing)
+![Screenshots](https://github.com/TeeRain/giga_chat/assets/57871779/0866cde0-e94f-4095-9f00-e89a1967cbf8)
